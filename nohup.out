@@ -1,0 +1,391 @@
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-unicode.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-clipboard.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-xim.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-xkb.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-remote-module.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-imselector.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-rime.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-autoeng.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-chttrans.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-vk.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-notificationitem.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-ipc.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-xkbdbus.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-freedesktop-notify.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-x11.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-spell.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-kimpanel-ui.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-keyboard.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-lua.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-punc.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-classic-ui.conf
+(INFO-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx/addon.c:151) 加载附加组件配置文件: fcitx-quickphrase.conf
+(WARN-26450 /build/buildd/fcitx-4.2.8.3/src/lib/fcitx-config/fcitx-config.c:922) 配置项不合法:  行14 缺少'='
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0320 22:08:44.619940 26450 common.cc:51] registering built-in components
+I0320 22:08:44.620021 26450 registry.cc:16] registering component: config
+I0320 22:08:44.620034 26450 registry.cc:16] registering component: schema_config
+I0320 22:08:44.620048 26450 registry.cc:16] registering component: tabledb
+I0320 22:08:44.620059 26450 registry.cc:16] registering component: stabledb
+I0320 22:08:44.620066 26450 registry.cc:16] registering component: plain_userdb
+I0320 22:08:44.620074 26450 registry.cc:16] registering component: userdb
+I0320 22:08:44.620090 26450 registry.cc:16] registering component: dictionary
+I0320 22:08:44.620102 26450 registry.cc:16] registering component: reverse_lookup_dictionary
+I0320 22:08:44.620110 26450 registry.cc:16] registering component: user_dictionary
+I0320 22:08:44.620117 26450 registry.cc:16] registering component: ascii_composer
+I0320 22:08:44.620126 26450 registry.cc:16] registering component: chord_composer
+I0320 22:08:44.620137 26450 registry.cc:16] registering component: express_editor
+I0320 22:08:44.620148 26450 registry.cc:16] registering component: fluency_editor
+I0320 22:08:44.620165 26450 registry.cc:16] registering component: key_binder
+I0320 22:08:44.620177 26450 registry.cc:16] registering component: navigator
+I0320 22:08:44.620189 26450 registry.cc:16] registering component: punctuator
+I0320 22:08:44.620196 26450 registry.cc:16] registering component: recognizer
+I0320 22:08:44.620203 26450 registry.cc:16] registering component: selector
+I0320 22:08:44.620209 26450 registry.cc:16] registering component: speller
+I0320 22:08:44.620218 26450 registry.cc:16] registering component: abc_segmentor
+I0320 22:08:44.620229 26450 registry.cc:16] registering component: ascii_segmentor
+I0320 22:08:44.620240 26450 registry.cc:16] registering component: matcher
+I0320 22:08:44.620247 26450 registry.cc:16] registering component: punct_segmentor
+I0320 22:08:44.620254 26450 registry.cc:16] registering component: fallback_segmentor
+I0320 22:08:44.620265 26450 registry.cc:16] registering component: echo_translator
+I0320 22:08:44.620277 26450 registry.cc:16] registering component: punct_translator
+I0320 22:08:44.620285 26450 registry.cc:16] registering component: table_translator
+I0320 22:08:44.620292 26450 registry.cc:16] registering component: script_translator
+I0320 22:08:44.620298 26450 registry.cc:16] registering component: r10n_translator
+I0320 22:08:44.620306 26450 registry.cc:16] registering component: reverse_lookup_translator
+I0320 22:08:44.620316 26450 registry.cc:16] registering component: simplifier
+I0320 22:08:44.620328 26450 registry.cc:16] registering component: uniquifier
+I0320 22:08:44.620488 26450 deployment_tasks.cc:31] updating rime installation info.
+I0320 22:08:44.620509 26450 config.cc:554] loading config file '/home/cy/.config/fcitx/rime/installation.yaml'.
+I0320 22:08:44.621019 26450 deployment_tasks.cc:49] installation info exists. installation id: lin
+I0320 22:08:44.621037 26450 deployment_tasks.cc:57] sync dir: D:\Users\Nutstore\RimeSync
+I0320 22:08:44.621047 26450 deployment_tasks.cc:59] previous distribution: fcitx-rime
+I0320 22:08:44.621055 26450 deployment_tasks.cc:62] previous distribution version: 0.1
+I0320 22:08:44.621064 26450 deployment_tasks.cc:65] previous Rime version: 0.9.9
+I0320 22:08:44.621085 26450 config.cc:554] loading config file '/home/cy/.config/fcitx/rime/default.yaml'.
+I0320 22:08:44.624629 26450 config.cc:554] loading config file '/usr/share/rime-data/default.yaml'.
+I0320 22:08:44.629133 26450 customizer.cc:85] config file '/home/cy/.config/fcitx/rime/default.yaml' is up-to-date.
+I0320 22:08:44.629259 26450 config.cc:554] loading config file '/home/cy/.config/fcitx/rime/default.yaml'.
+I0320 22:08:44.631983 26450 config.cc:554] loading config file '/home/cy/.config/fcitx/rime/user.yaml'.
+I0320 22:08:44.632753 26450 config.cc:554] loading config file '/home/cy/.config/fcitx/rime/luna_pinyin.schema.yaml'.
+I0320 22:08:44.634429 26450 engine.cc:69] starting engine.
+I0320 22:08:44.635231 26450 engine.cc:111] updated option: _auto_commit
+I0320 22:08:44.635388 26450 table_db.cc:80] stabledb 'custom_phrase.txt' does not exist.
+I0320 22:08:44.635452 26450 dictionary.cc:265] loading dictionary 'luna_pinyin'.
+I0320 22:08:44.635464 26450 table.cc:194] loading table file: /home/cy/.config/fcitx/rime/luna_pinyin.table.bin
+I0320 22:08:44.635506 26450 prism.cc:72] loading prism file: /home/cy/.config/fcitx/rime/luna_pinyin.prism.bin
+I0320 22:08:44.635540 26450 prism.cc:102] found double array image of size 1792.
+I0320 22:08:44.636554 26450 engine.cc:111] updated option: ascii_mode
+I0320 22:08:44.636600 26450 engine.cc:111] updated option: simplification
+I0320 22:08:46.449666 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:46.450458 26450 simplifier.cc:40] initilizing opencc: zht2zhs.ini
+I0320 22:08:46.705260 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:46.937511 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:47.105206 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:47.161207 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:47.249081 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:47.656673 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:47.738945 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:47.912703 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.009538 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.145442 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.265105 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.345360 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.688979 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.768646 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:48.952939 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:49.073344 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:49.409160 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:49.577484 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:49.665279 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:50.576972 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:50.784546 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:51.017490 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:51.096684 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:51.297343 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:51.953400 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:52.369334 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:52.913542 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:53.033308 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:53.313417 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:53.881090 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.096212 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.265705 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.361582 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.473073 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.713016 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.889453 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:54.960743 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:55.056592 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:55.096889 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:55.249081 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:55.833261 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:56.121562 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:56.321352 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:08:56.425577 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:05.025030 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:05.281255 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:05.553447 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:05.721138 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:18.265218 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:18.409626 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:18.545166 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:18.944211 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:19.089236 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:19.289031 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:19.497262 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:19.872879 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:20.032943 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:20.185009 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:20.665212 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:20.809185 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:20.977296 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:21.081307 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:21.441124 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:31.385319 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:31.601332 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:31.753080 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:09:31.857136 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:02.200919 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:02.408836 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:02.536834 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:02.633113 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:10.320883 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:10.520866 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:10.657011 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:10.752771 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:15.704603 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:15.960608 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:16.080605 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:16.232851 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:16.392848 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:16.473000 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:16.560628 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:16.928668 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:17.024317 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:17.128998 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:17.192884 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:17.680852 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:42.039973 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:42.248491 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:42.720258 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:42.857173 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.000418 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.024493 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.192051 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.272938 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.360493 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.504654 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:43.640702 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:44.696323 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:44.896204 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:45.056396 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:45.400349 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:10:45.560614 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:22.311393 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:22.472327 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:22.976311 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:23.337023 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:23.816310 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:23.920370 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:24.025408 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:24.175254 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:24.279255 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:24.455313 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:25.080258 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:25.255659 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:25.416103 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:25.568027 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:25.736167 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:26.128161 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:26.272009 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:26.672411 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:28.472192 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:28.584213 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:28.735944 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:28.832272 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:28.952116 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:29.064333 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:29.168556 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:29.216120 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:29.432143 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:29.576434 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:41.480087 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:41.599472 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:41.711217 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:11:42.072188 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:10.399161 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:10.535573 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:10.631584 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:11.087440 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:11.231309 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:11.335454 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:11.479579 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:11.767017 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:12.055565 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:12.175004 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:12.296178 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:12.431159 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:12.904261 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:13.143673 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:13.271733 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:13:30.151491 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:40.463179 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:40.951287 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:41.135278 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:41.319195 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:41.511554 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:42.127050 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:42.711860 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:42.855538 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:44.311148 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:44.895216 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:45.009870 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:45.143268 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:45.279373 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:45.311478 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:45.463268 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:47.919309 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.151281 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.266059 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.462803 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.583283 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.623153 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.887320 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:48.991974 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:49.112157 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:49.207273 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:49.383349 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:49.487350 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:49.879184 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:49.935046 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:50.041424 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:50.183311 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:50.189488 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:50.415448 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:50.503134 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:50.775269 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:51.079099 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:51.255280 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:51.351199 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:51.543113 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:51.638983 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:53.814980 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:54.015242 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:54.223233 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:54.695235 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:54.951330 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:55.047065 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:14:55.199327 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:08.143059 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:08.286824 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:08.399029 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:08.423759 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:08.695276 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:09.559248 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:09.734239 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:10.151176 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:10.391124 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:10.527158 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:10.775058 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:11.375069 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:11.494777 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:11.607341 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:11.619017 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:13.350930 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:13.646960 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:13.910709 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:14.087023 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:14.262912 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:14.638998 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:15.055032 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:15.351021 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:15.671084 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:17.094772 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:17.271086 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:17.526340 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:17.630894 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:17.751112 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:18.686866 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:18.911012 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:18.974900 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:19.151031 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:19.278374 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:19.950981 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:20.294672 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:20.487172 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:20.623137 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:20.689891 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:21.055137 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:21.182370 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:21.238900 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:21.454928 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:21.559129 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:21.663282 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:26.654954 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:26.807082 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:26.894814 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:27.031065 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:27.125865 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:34.294533 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:34.367734 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:34.510910 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:34.582942 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:35.071053 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:35.167029 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:42.630702 26450 recognizer.cc:58] input [0, 1) '`' matches pattern: reverse_lookup
+I0320 22:15:42.630820 26450 recognizer.cc:58] input [0, 1) '`' matches pattern: reverse_lookup
+I0320 22:15:42.631060 26450 dictionary.cc:265] loading dictionary 'cangjie5'.
+I0320 22:15:42.631093 26450 table.cc:194] loading table file: /home/cy/.config/fcitx/rime/cangjie5.table.bin
+I0320 22:15:42.631207 26450 prism.cc:72] loading prism file: /home/cy/.config/fcitx/rime/cangjie5.prism.bin
+I0320 22:15:42.631273 26450 prism.cc:102] found double array image of size 151040.
+I0320 22:15:56.110764 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:56.302711 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:56.525744 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:56.686748 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:57.214761 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:57.366727 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:57.454596 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:57.734356 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:58.294292 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:58.502753 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:58.662710 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:58.766789 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:15:58.854817 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:18.438078 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:18.439322 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:18.910560 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:31.725786 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:31.910372 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:32.486083 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:32.870775 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:33.078150 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:33.366705 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:33.526533 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:33.686385 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:33.982208 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:34.086743 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:45.974508 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:46.150373 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:46.190397 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:46.422379 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:46.542528 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:46.598546 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:46.998399 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:47.110040 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:47.270424 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:47.638582 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:47.862239 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:48.014312 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:48.102201 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:48.256992 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:48.390388 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:48.494408 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:48.822968 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:49.142586 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:49.206552 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:49.374069 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:49.398663 26450 engine.cc:175] Oops, got a futile translation.
+I0320 22:16:49.622642 26450 engine.cc:175] Oops, got a futile translation.
